@@ -1,4 +1,4 @@
-<img src="./virtualized-list.png" alt="virtualized-list" />
+<img src="./virtualize-list.png" alt="virtualized-list" />
 
 # VirtualizedList Component
 
