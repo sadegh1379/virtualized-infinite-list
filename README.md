@@ -1,4 +1,4 @@
-<img align="center" height="200px" src="./virtualize-list.png" alt="virtualized-list" />
+<img align="center" height="400px" src="./virtualize-list.png" alt="virtualized-list" />
 
 # VirtualizedList Component
 
