@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="580px" height="300px" src="./demo.png" alt="virtualized-list" />
+  <img width="580px" src="./demo.png" alt="virtualized-list" />
 </div>
 
 # VirtualizedList Component
