@@ -1,3 +1,5 @@
+<img src="./virtualized-list.png" alt="virtualized-list" />
+
 # VirtualizedList Component
 
 A high-performance virtualized list component built with `@tanstack/react-virtual` that efficiently
