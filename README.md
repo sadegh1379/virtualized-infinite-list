@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="580px" src="./demo.png" alt="virtualized-list" />
-</div>
+  <img width="480px" src="./demo.png" alt="virtualized-list" />
 
 # VirtualizedList Component
 
