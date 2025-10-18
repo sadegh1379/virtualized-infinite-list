@@ -1,7 +1,7 @@
 <div align="center">
   <img width="380px" src="./virtualize-list.png" alt="virtualized-list" />
 </div>
-# VirtualizedList Component
+## VirtualizedList Component
 
 A high-performance virtualized list component built with `@tanstack/react-virtual` that efficiently
 renders large lists by only rendering visible items.
