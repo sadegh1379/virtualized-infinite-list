@@ -89,6 +89,7 @@ function InfiniteList() {
       isLoading={isLoading}
       threshold={200}
       getItemKey={item => item.id}
+      height="600px"
     />
   );
 }
@@ -116,6 +117,7 @@ function InfiniteList() {
   data={items}
   renderItem={item => <div>{item.name}</div>}
   isLoading={isLoading}
+  height="600px"
   loader={
     <div className="flex justify-center py-8">
       <Spinner size="large" />
@@ -140,6 +142,7 @@ For items with different heights, the component automatically measures them. Mak
 ```tsx
 <VirtualizedList
   data={items}
+  height="600px"
   renderItem={item => (
     <div className="p-4">
       <h3>{item.title}</h3>
